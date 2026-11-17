@@ -1,2 +1,2 @@
 # richa_portfolio_website
-this is a portfolio
+this is a portfolio website
